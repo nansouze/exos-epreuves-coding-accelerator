@@ -4,4 +4,4 @@ Un répo dédié à tous les exercices de Coding Accelerator.
 
 ## Semaine 1 -Fondations
 
-- [Scripting Shell](/ca_shellscripts)
+- [Shell Scripting ](/ca_shellscripts)
