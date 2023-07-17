@@ -1,3 +1,7 @@
 # Coding Accelerator
 
-Coding Accelerator est le premier programme francophone qui vous aide à devenir un codeur libre et autonome.
+Un répo dédié à tous les exercices de Coding Accelerator.
+
+## Semaine 1 -Fondations
+
+- [Scripting Shell](/ca_shellscripts)
