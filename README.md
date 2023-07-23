@@ -1,6 +1,6 @@
 # Coding Accelerator
 
-Tous les exercices & challenges du programme Coding Accelerator.
+Tous les exercices & épreuves du programme Coding Accelerator.
 
 ## Semaine 1 - Fondations
 
