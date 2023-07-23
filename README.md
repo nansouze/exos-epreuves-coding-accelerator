@@ -1,6 +1,6 @@
 # Coding Accelerator
 
-Un répo dédié à tous les exercices de Coding Accelerator.
+Tous les exercices & challenges du programme Coding Accelerator.
 
 ## Semaine 1 - Fondations
 
